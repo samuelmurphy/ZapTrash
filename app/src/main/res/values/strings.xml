@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZapTrash</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_msg" translatable="false">"Enter stuff here "</string>
+    <string name="zzz_text" translatable="false" >should not see this</string>
+    <string name="send_msg">Send Stuff</string>
+    <string name="gps_button">gps</string>
+    <string name="gps_button_txt">gps</string>
+    <string name="text_lat_display">0.0.0</string>
+    <string name="txt_lat2">0.0.0</string>
+    <string name="goat_txt">goats string</string>
+</resources>

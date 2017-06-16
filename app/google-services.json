@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536505043058",
+    "firebase_url": "https://zaptrash-d2397.firebaseio.com",
+    "project_id": "zaptrash-d2397",
+    "storage_bucket": "zaptrash-d2397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536505043058:android:23e6a0673a273994",
+        "android_client_info": {
+          "package_name": "com.samtheknife.www.zaptrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536505043058-b0hcmftuaar77uh4b0pp82qsj06jpguc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samtheknife.www.zaptrash",
+            "certificate_hash": "37609394d0ce2d28c85035e5fc0f31d056e40bc2"
+          }
+        },
+        {
+          "client_id": "536505043058-vag0g0r3v6uk15d7jb4r2fp6a0449ii1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1OpslLKyboYwZiJxYvb6OcrLg5m3bfJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536505043058-vag0g0r3v6uk15d7jb4r2fp6a0449ii1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
